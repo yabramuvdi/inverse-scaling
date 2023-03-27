@@ -2,7 +2,7 @@
 
 This repository contains all the material from my submission to the [Inverse Scaling Challenge](https://github.com/inverse-scaling/prize). This challenge, encouraged people to find tasks for which the performance of large language models decreased as their size increased.
 
-The task is designed aims at testing whether language models are able to identify alternative uses for common objects (e.g. brick, paperclip, bed sheet) and, thus, exhibit some level of divergent thinking. Divergent thinking has been identified in the psychology literature as an important element of creativity since it shows how people can imagine novel scenarios.
+The task is designed to test whether language models are able to identify alternative uses for common objects (e.g. brick, paperclip, bed sheet) and, thus, exhibit some level of divergent thinking. Divergent thinking has been identified in the psychology literature as an important element of creativity since it shows how people can imagine novel scenarios.
 
  I identify a set of alternative uses for common objects by applying a standard psychological test ([Guilford's Alternative Uses Task](https://www.creativehuddle.co.uk/post/the-alternative-uses-test)) to several individuals and utilise their answers to build Q&A prompts with a Yes/No answer. These prompts are framed in two possible ways: 
  1. *Positive framing*: could a brick be used as a hammer?
